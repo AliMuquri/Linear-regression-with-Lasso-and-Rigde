@@ -3,4 +3,5 @@ __pycache__/
 dataset/
 log/
 ~/
-
+startup.py.swo
+_.swp
